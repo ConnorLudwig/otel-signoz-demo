@@ -20,7 +20,7 @@ Every few seconds the app simulates an HTTP request and emits:
 
 - **Python 3.9+**
 - **Git** — needed to download this repo (install instructions in step 1 below)
-- **Access to the SigNoz demo account** — login credentials and your ingestion key will be provided in a separate email from your interviewer
+- **Access to the SigNoz demo account** — steps to access the demo account will be provided in a separate email from your interviewer
 
 ---
 
