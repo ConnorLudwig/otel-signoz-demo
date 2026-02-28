@@ -97,7 +97,7 @@ sudo apt install python3 python3-pip python3-venv
 ### 3. Clone the repo
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/ConnorLudwig/otel-signoz-demo.git
 cd otel-signoz-demo
 ```
 
